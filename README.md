@@ -1,20 +1,14 @@
 # represent a solver for the queens problem
 
-## [your name here]'s remarks
+## Michael's remarks
 
 ### citations / worked with / received help from
-Replace this paragraph with a solid accounting of your sources.
-People have become either lackadaisical or dishonest
-about crediting others for ideas and help. 
-If I grade this work, I will rely on this section as
-a complete listing for judging academic honesty.
-
-This list may omit sources common to everyone in the course,
-including...
-* Piazza threads
-* class-wide discussions
-* communication with Holmes via the class
-web site or GitHub repos.
+I received help from Matthew, who helped me
+understand how to use the new format. I had
+completed the problem over the weekend, but I made
+a method which passed a board each time, whereas
+this one was a whole class. He helped me realize how to use
+the snapshot, and when to depopulate the board.
 
 
 ## Holmes's remarks
